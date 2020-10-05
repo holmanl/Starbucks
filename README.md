@@ -4,6 +4,7 @@
 To create a model that can predict whether a marketing initiative will work on a customer based on the characteristics of the offer and the customer. 
 
 ## Files
+* Blog Post.xslx - complete report on the findings of the exploratory analysis and how a model was made
 * Starbucks_Capstone_notebook - exploratory.ipynb - initial data exploration
 * data_cleaning.py - data cleaning functions 
 * Model Training.ipynb - training model to classify data
