@@ -4,7 +4,7 @@
 To create a model that can predict whether a marketing initiative would work on a customer based on the characteristics of the offer and the customer. This would allow tailoring of marketing offers to customers in order to maximize the likelihood of influencing spending. 
 
 ## Results
-Successfully created a binary categorization model using XGBoost with 72.5% accuracy. Full findings of the code can be found here: https://medium.com/@lance.holman/starbucks-marketing-analysis-ca911debaba
+Successfully created a binary categorization model using XGBoost with 72.3% accuracy. Full findings of the code can be found here: https://medium.com/@lance.holman/starbucks-marketing-analysis-ca911debaba
 
 ## Files
 * Starbucks_Capstone_notebook - exploratory.ipynb - initial data exploration
