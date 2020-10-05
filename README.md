@@ -1,15 +1,20 @@
 # Starbucks Marketing Analysis
 
 ## Purpose
-To create a model that can predict whether a marketing initiative would work on a customer based on the characteristics of the offer and the customer. 
+To create a model that can predict whether a marketing initiative would work on a customer based on the characteristics of the offer and the customer. This would allow tailoring of marketing offers to customers in order to maximize the likelihood of influencing spending. 
+
+## Results
+Successfully created a binary categorization model using XGBoost with 78% accuracy. 
 
 ## Files
-* Blog Post.xslx - complete report on the findings of the exploratory analysis and how a model was made
 * Starbucks_Capstone_notebook - exploratory.ipynb - initial data exploration
-* data_cleaning.py - data cleaning functions 
-* Model Training.ipynb - training model to classify data
+* data_cleaning.py - data cleaning and feature engineering functions 
+* Model Training.ipynb - training models to classify data
 * final_model.sav - pickled classification model
 * OLD Starbucks_Capstone_notebook.ipynb - old exploratory file, replaced 
+* portfolio.json – contains metadata about each marketing offer
+*	profile.json – contains demographic data of the customers
+*	transcript.zip – contains records of transactions, offers viewed, offers received, and offers completed (zipped to meet GitHub upload requirements) 
 
 ## Libraries
 matplotlib, seaborn, sklearn.preprocessing, datetime, pandas, numpy, math, json, sklearn.model_selection, sklearn.linear_model, sklearn.metrics, xgboost, pickle
