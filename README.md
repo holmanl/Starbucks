@@ -18,3 +18,8 @@ Successfully created a binary categorization model using XGBoost with 72.3% accu
 
 ## Libraries
 matplotlib, seaborn, sklearn.preprocessing, datetime, pandas, numpy, math, json, sklearn.model_selection, sklearn.linear_model, sklearn.metrics, xgboost, pickle
+
+## Links
+Links used to help create this project:
+https://machinelearningmastery.com/xgboost-python-mini-course/
+https://www.kaggle.com/prashant111/a-guide-on-xgboost-hyperparameters-tuning#A-Guide-on-XGBoost-hyperparameters-tuning
