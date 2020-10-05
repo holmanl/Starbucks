@@ -1,4 +1,4 @@
-# Starbucks
+# Starbucks Marketing Analysis
 
 ## Purpose
 To create a model that can predict whether a marketing initiative will work on a customer based on the characteristics of the offer and the customer. 
