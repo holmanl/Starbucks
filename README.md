@@ -1,7 +1,7 @@
 # Starbucks Marketing Analysis
 
 ## Purpose
-To create a model that can predict whether a marketing initiative will work on a customer based on the characteristics of the offer and the customer. 
+To create a model that can predict whether a marketing initiative would work on a customer based on the characteristics of the offer and the customer. 
 
 ## Files
 * Blog Post.xslx - complete report on the findings of the exploratory analysis and how a model was made
